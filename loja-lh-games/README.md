@@ -1,3 +1,5 @@
+![ezgif com-animated-gif-maker](https://github.com/Alonso-Santos/Consumo-de-API/assets/161665596/04d3bd8a-1cc6-4299-b851-cb919958864c)
+
 # LojaGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
